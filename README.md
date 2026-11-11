@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0118-pascals-triangle) |
 | [1480-running-sum-of-1d-array](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shivankdangi043/LeetcodeQuestions-shivank/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
